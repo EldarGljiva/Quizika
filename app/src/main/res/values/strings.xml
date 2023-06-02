@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Quizika</string>
+    <string name="text_field">Enter your name..</string>
+    <string name="welcome"></string> //welcome screen
+    <string name="back_button">cancel</string>
+    <string name="game">Exit</string>
+    <string name="finish">Return</string>
+    <string name="table">Return</string>
+</resources>
