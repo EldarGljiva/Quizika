@@ -1,21 +1,20 @@
-# Quizika - Quiz Knowledge App
+![Quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/0f31e237-e4da-401c-8ac6-23ab9648af70)
+## About
 
-## Overview
+For a school project, I created a quiz app named Quizika using Android Studio and Kotlin. The app lets users test their general knowledge. It was my first experience with Android app development, where I focused on learning the basics.
 
-Quizika is a mobile application developed for testing users' knowledge through quizzes. Users can answer questions on various topics and assess their knowledge. The application is built using Kotlin in Android Studio.
+## Technologies Used
 
-## Features
+-Android Studio, Kotlin
 
--Test your knowledge through engaging quiz.
--Receive immediate feedback and detailed explanations for quiz results.
--Enjoy a user-friendly and intuitive interface for seamless navigation.
+## Screenshots
+![IMG_20231210_192503](https://github.com/EldarGljiva/Quizika/assets/116194253/133884fe-8279-41bd-9eca-6f14524f6591)
+![Screenshot_2023-12-10-19-25-21-446_com example quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/7adfdeaf-29bd-4084-aeb7-ab8fbd85cb45)
+![Screenshot_2023-12-10-19-25-29-586_com example quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/445a0fb2-6ee7-40ed-bebf-424f1d15ee24)
+![Screenshot_2023-12-10-19-25-37-326_com example quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/e704baa7-d5f8-4302-9d7c-8eb40ae75bc1)
+![Screenshot_2023-12-10-19-25-41-007_com example quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/8f09fe75-bc2c-4623-8d6b-f3f0a579173d)
+![Screenshot_2023-12-10-19-26-35-018_com example quizika](https://github.com/EldarGljiva/Quizika/assets/116194253/b00171a5-6eea-4a60-aa2c-b0593224ef05)
 
 
-## Mobile App
 
-Quizika's mobile application is developed using the following technologies:
 
-- Kotlin: The primary programming language.
-- Android Studio: The integrated development environment (IDE) for Android app development.
-
-Happy quizzing!
